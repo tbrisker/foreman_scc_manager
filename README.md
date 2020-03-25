@@ -1,4 +1,5 @@
 [![Build Status master](https://travis-ci.org/ATIX-AG/foreman_scc_manager.svg?branch=master)](https://travis-ci.org/ATIX-AG/foreman_scc_manager)
+[![Gem Version](https://badge.fury.io/rb/foreman_scc_manager.svg)](https://badge.fury.io/rb/foreman_scc_manager)
 
 # ForemanSccManager
 
