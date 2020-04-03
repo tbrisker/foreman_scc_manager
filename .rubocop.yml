@@ -1,6 +1,8 @@
 require:
   - rubocop-rails
 
+
+
 # TODO: remove this file by either moving cops here or fixing code
 inherit_from:
   - .rubocop_todo.yml
@@ -36,10 +38,16 @@ Naming/FileName:
   Exclude:
       - 'db/seeds.d/*'
 
-Style/WordArray:
-  Enabled: false
+Style/HashEachMethods:
+  Enabled: true
 
-Style/BracesAroundHashParameters:
+Style/HashTransformKeys:
+  Enabled: true
+
+Style/HashTransformValues:
+  Enabled: true
+
+Style/WordArray:
   Enabled: false
 
 Style/RescueModifier:

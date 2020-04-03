@@ -31,3 +31,6 @@ Rails/ReflectionClassName:
 # SupportedStyles: strict, flexible
 Rails/TimeZone:
   Enabled: false
+
+Rails/RakeEnvironment:
+  Enabled: false
